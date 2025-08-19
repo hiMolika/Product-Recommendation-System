@@ -1,0 +1,61 @@
+{
+  "session_id": "20250807_142736",
+  "conversation_history": [
+    {
+      "type": "user",
+      "content": "hi\\",
+      "timestamp": "2025-08-07 14:31:44.737095"
+    },
+    {
+      "type": "bot",
+      "content": " Hello! I'm your hookah recommendation assistant. I'm here to help you find the perfect hookah based on your preferences and budget.\n\nI can help you with:\n Finding hookahs based on your needs\n Budget-friendly recommendations\n Color and design preferences\n Portable vs home hookah options\n LED and special features\n\nWhat kind of hookah are you looking for today?",
+      "timestamp": "2025-08-07 14:31:44.737095"
+    },
+    {
+      "type": "user",
+      "content": "Show me LED hookah for party",
+      "timestamp": "2025-08-07 14:32:00.983210"
+    },
+    {
+      "type": "bot",
+      "content": "Great!  You're interested in: led.  For party use.\n\n **Here are my top 2 recommendations for you:**\n\n**1. Alshan Square LED Base Light**\n Price: Rs. 1,150.00\n Features:  LED Light,  nan\" tall\n LED Base\nPerfect for small hookahs\nAcrylic base\nOperate with remote\nMulti-color LED lights effects\n **[View Product](https://shopdop.in/products/alshan-square-led-base-light)**\n\n**2. Shishabucks Acrylic LED Base Stand**\n Price: Rs. 1,350.00\n Features:  LED Light,  nan\" tall\n Shishabucks LED light\nAcrylic base\nLED operates with remote\nCompatible on many shishas\nMulticolor effects\n **[View Product](https://shopdop.in/products/shishabucks-acrylic-led-base-stand)**\n\n **What would you like to know more about?**\n\u2022 More details about any of these products?\n\u2022 Different price range or features?\n\u2022 Other color options?",
+      "timestamp": "2025-08-07 14:32:01.107502"
+    },
+    {
+      "type": "user",
+      "content": "I want hookah for travel",
+      "timestamp": "2025-08-07 14:32:15.663031"
+    },
+    {
+      "type": "bot",
+      "content": "I'd like to understand your preferences better to give you more targeted recommendations.\n\nCould you tell me more about:\n **Primary Use**: Home sessions, travel, parties?\n **Budget Range**: What's comfortable for you to spend?\n **Style Preference**: Traditional glass or modern acrylic?\n **Portability**: Important for you or not necessary?\n **Special Features**: LED lights, unbreakable design, etc.?\n\nJust mention what's important to you, and I'll find the perfect match!",
+      "timestamp": "2025-08-07 14:32:15.670486"
+    },
+    {
+      "type": "user",
+      "content": "unbreakable",
+      "timestamp": "2025-08-07 14:32:20.468264"
+    },
+    {
+      "type": "bot",
+      "content": "Thanks for the additional information! I've feature requirements understood. Let me find better matches for you.\n\nI couldn't find any products matching your exact criteria. Let me adjust the search parameters and try again.",
+      "timestamp": "2025-08-07 14:32:20.645757"
+    }
+  ],
+  "user_preferences": {
+    "state": "showing_products",
+    "preferences": {
+      "budget_range": "Not specified",
+      "colors": [],
+      "features": [
+        "portable",
+        "led",
+        "unbreakable"
+      ],
+      "usage": "travel"
+    },
+    "recommendations_shown": 0,
+    "conversation_length": 8
+  },
+  "last_updated": "2025-08-07 14:32:20.645757"
+}

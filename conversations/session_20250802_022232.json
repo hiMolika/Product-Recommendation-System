@@ -1,0 +1,81 @@
+{
+  "session_id": "20250802_022232",
+  "conversation_history": [
+    {
+      "type": "user",
+      "content": "hi",
+      "timestamp": "2025-08-02 02:23:39.927602"
+    },
+    {
+      "type": "bot",
+      "content": "\ud83d\udc4b Hello! I'm your hookah recommendation assistant. I'm here to help you find the perfect hookah based on your preferences and budget.\n\nI can help you with:\n\ud83d\udd0d Finding hookahs based on your needs\n\ud83d\udcb0 Budget-friendly recommendations\n\ud83c\udfa8 Color and design preferences\n\ud83d\udcf1 Portable vs home hookah options\n\ud83d\udca1 LED and special features\n\nWhat kind of hookah are you looking for today?",
+      "timestamp": "2025-08-02 02:23:39.927602"
+    },
+    {
+      "type": "user",
+      "content": "i want a portable hookah under 3000",
+      "timestamp": "2025-08-02 02:24:00.050480"
+    },
+    {
+      "type": "bot",
+      "content": "Great! \ud83d\udcb0 I understand your budget is around \u20b93000. \u2728 You're interested in: portable.\n\n\ud83c\udfaf **Here are my top 2 recommendations for you:**\n\n**1. Portable Acrylic Mini Tank Hookah**\n\ud83d\udcb0 Price: Rs. 1,449.00\n\u2728 Features: \ud83d\udcf1 Portable, \ud83d\udca1 LED Light, \ud83d\udccf nan\" tall\n\ud83d\udcdd What are its key features? \n \nPortable design hookah\nGerman Clay Chillum\nPre-fitted Diffuser\nDecent acrylic base\nMetal Coal Tray\nSilicone pipe with a ...\n\ud83d\udd17 **[View Product](https://shopdop.in/products/portable-acrylic-mini-tank-hookah)**\n\n**2. og Rechargeable Long Hookah Starter (Smoke Maker)**\n\ud83d\udcb0 Price: Rs. 999.00\n\u2728 Features: \ud83d\udcf1 Portable, \ud83d\udccf nan\" tall\n\ud83d\udcdd Material: Plastic\n\nColor: Black\nEasy to use\nPortable device to start hookah\nCompatible with any hookah bowl/chillum\nDurable and Rechargeable\nFast char...\n\ud83d\udd17 **[View Product](https://shopdop.in/products/og-rechargeable-long-hookah-starter-smoke-maker)**\n\n\u2753 **What would you like to know more about?**\n\u2022 More details about any of these products?\n\u2022 Different price range or features?\n\u2022 Other color options?\n",
+      "timestamp": "2025-08-02 02:24:00.182646"
+    },
+    {
+      "type": "user",
+      "content": "Show me MYA hookahs",
+      "timestamp": "2025-08-02 02:24:52.576039"
+    },
+    {
+      "type": "bot",
+      "content": "I'd like to understand your preferences better to give you more targeted recommendations.\n\nCould you tell me more about:\n\ud83c\udfaf **Primary Use**: Home sessions, travel, parties?\n\ud83d\udcb0 **Budget Range**: What's comfortable for you to spend?\n\ud83c\udfa8 **Style Preference**: Traditional glass or modern acrylic?\n\ud83d\udcf1 **Portability**: Important for you or not necessary?\n\ud83d\udca1 **Special Features**: LED lights, unbreakable design, etc.?\n\nJust mention what's important to you, and I'll find the perfect match!",
+      "timestamp": "2025-08-02 02:24:52.576641"
+    },
+    {
+      "type": "user",
+      "content": "i want LED hookahs for party",
+      "timestamp": "2025-08-02 02:25:55.797507"
+    },
+    {
+      "type": "bot",
+      "content": "Thanks for the additional information! I've feature requirements understood. Let me find better matches for you.\n\n\ud83c\udfaf **Here are my top 2 recommendations for you:**\n\n**1. Acrylic Bottle Portable Tumbler Hookah with LED Light**\n\ud83d\udcb0 Price: Rs. 799.00\n\ud83c\udfa8 Available Colors: Orange, White, Green\n\u2728 Features: \ud83d\udcf1 Portable, \ud83d\udca1 LED Light, \ud83d\udccf nan\" tall\n\ud83d\udcdd Why to buy it? \n \nBottle shape hookah\nAcrylic body\nPortable model\nLED Light for a premium look\nGenerate dense smoke\nEasy to carry (good for outdoor se...\n\ud83d\udd17 **[View Product](https://shopdop.in/products/acrylic-bottle-portable-tumbler-hookah-with-led-light)**\n\n**2. Ice Crushed LED Portable Tumbler Hookah**\n\ud83d\udcb0 Price: Rs. 1,349.00\n\u2728 Features: \ud83d\udcf1 Portable, \ud83d\udca1 LED Light, \ud83d\udccf 12.0\" tall\n\ud83d\udcdd Easy to Handle\nPortable\nHigh quality acrylic material\nPre-fitted LED lights\nBattery operated LED\nProduce smooth dense smoke\nIce-crushed pattern\nGlass ...\n\ud83d\udd17 **[View Product](https://shopdop.in/products/ice-crushed-led-portable-tumbler-hookah)**\n\n\u2753 **What would you like to know more about?**\n\u2022 More details about any of these products?\n\u2022 Different price range or features?\n\u2022 Other color options?\n",
+      "timestamp": "2025-08-02 02:25:55.848089"
+    },
+    {
+      "type": "user",
+      "content": "i want hookahs under 5000",
+      "timestamp": "2025-08-02 02:26:30.779106"
+    },
+    {
+      "type": "bot",
+      "content": "I'd like to understand your preferences better to give you more targeted recommendations.\n\nCould you tell me more about:\n\ud83c\udfaf **Primary Use**: Home sessions, travel, parties?\n\ud83d\udcb0 **Budget Range**: What's comfortable for you to spend?\n\ud83c\udfa8 **Style Preference**: Traditional glass or modern acrylic?\n\ud83d\udcf1 **Portability**: Important for you or not necessary?\n\ud83d\udca1 **Special Features**: LED lights, unbreakable design, etc.?\n\nJust mention what's important to you, and I'll find the perfect match!",
+      "timestamp": "2025-08-02 02:26:30.779106"
+    },
+    {
+      "type": "user",
+      "content": "traditional glass",
+      "timestamp": "2025-08-02 02:26:40.860851"
+    },
+    {
+      "type": "bot",
+      "content": "Thanks for the additional information! I've feature requirements understood. Let me find better matches for you.\n\n\ud83c\udfaf **Here are my top 2 recommendations for you:**\n\n**1. Ice Crushed LED Portable Tumbler Hookah**\n\ud83d\udcb0 Price: Rs. 1,349.00\n\u2728 Features: \ud83d\udcf1 Portable, \ud83d\udca1 LED Light, \ud83d\udccf 12.0\" tall\n\ud83d\udcdd Easy to Handle\nPortable\nHigh quality acrylic material\nPre-fitted LED lights\nBattery operated LED\nProduce smooth dense smoke\nIce-crushed pattern\nGlass ...\n\ud83d\udd17 **[View Product](https://shopdop.in/products/ice-crushed-led-portable-tumbler-hookah)**\n\n**2. Oduman N4 Midi Glass Hookah**\n\ud83d\udcb0 Price: Rs. 8,800.00\n\u2728 Features: \ud83d\udcf1 Portable, \ud83d\udca1 LED Light, \ud83d\udccf nan\" tall\n\ud83d\udcdd What are its main features? \n100% Original Product\nImported from Turkey\nHandmade strong glass base\nStainless steel parts (all components)\nDurable sili...\n\ud83d\udd17 **[View Product](https://shopdop.in/products/oduman-n4-midi-glass-hookah-stainless-steel-body-parts)**\n\n\u2753 **What would you like to know more about?**\n\u2022 More details about any of these products?\n\u2022 Different price range or features?\n\u2022 Other color options?\n",
+      "timestamp": "2025-08-02 02:26:40.925601"
+    }
+  ],
+  "user_preferences": {
+    "state": "showing_products",
+    "preferences": {
+      "budget_range": "\u20b90 - \u20b95000",
+      "colors": [],
+      "features": [
+        "portable",
+        "glass",
+        "led"
+      ],
+      "usage": "party"
+    },
+    "recommendations_shown": 2,
+    "conversation_length": 12
+  },
+  "last_updated": "2025-08-02 02:26:40.925601"
+}

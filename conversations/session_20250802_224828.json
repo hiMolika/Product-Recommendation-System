@@ -1,0 +1,44 @@
+{
+  "session_id": "20250802_224828",
+  "conversation_history": [
+    {
+      "type": "user",
+      "content": "hi",
+      "timestamp": "2025-08-02 22:48:33.677100"
+    },
+    {
+      "type": "bot",
+      "content": " Hello! I'm your hookah recommendation assistant. I'm here to help you find the perfect hookah based on your preferences and budget.\n\nI can help you with:\n Finding hookahs based on your needs\n Budget-friendly recommendations\n Color and design preferences\n Portable vs home hookah options\n LED and special features\n\nWhat kind of hookah are you looking for today?",
+      "timestamp": "2025-08-02 22:48:33.677100"
+    },
+    {
+      "type": "user",
+      "content": "i want a portable hookah under 3000",
+      "timestamp": "2025-08-02 22:49:17.939603"
+    },
+    {
+      "type": "user",
+      "content": "i want a portable hookah under 3000",
+      "timestamp": "2025-08-02 22:49:18.180893"
+    },
+    {
+      "type": "bot",
+      "content": "I'd like to understand your preferences better to give you more targeted recommendations.\n\nCould you tell me more about:\n **Primary Use**: Home sessions, travel, parties?\n **Budget Range**: What's comfortable for you to spend?\n **Style Preference**: Traditional glass or modern acrylic?\n **Portability**: Important for you or not necessary?\n **Special Features**: LED lights, unbreakable design, etc.?\n\nJust mention what's important to you, and I'll find the perfect match!",
+      "timestamp": "2025-08-02 22:49:18.180893"
+    }
+  ],
+  "user_preferences": {
+    "state": "gathering_preferences",
+    "preferences": {
+      "budget_range": "\u20b90 - \u20b93000",
+      "colors": [],
+      "features": [
+        "portable"
+      ],
+      "usage": ""
+    },
+    "recommendations_shown": 0,
+    "conversation_length": 5
+  },
+  "last_updated": "2025-08-02 22:49:18.180893"
+}

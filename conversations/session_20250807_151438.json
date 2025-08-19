@@ -1,0 +1,27 @@
+{
+  "session_id": "20250807_151438",
+  "conversation_history": [
+    {
+      "type": "user",
+      "content": "Hi",
+      "timestamp": "2025-08-07 16:41:43.523806"
+    },
+    {
+      "type": "bot",
+      "content": " Hello! I'm your hookah recommendation assistant. I'm here to help you find the perfect hookah based on your preferences and budget.\n\nI can help you with:\n Finding hookahs based on your needs\n Budget-friendly recommendations\n Color and design preferences\n Portable vs home hookah options\n LED and special features\n\nWhat kind of hookah are you looking for today?",
+      "timestamp": "2025-08-07 16:41:43.580760"
+    }
+  ],
+  "user_preferences": {
+    "state": "understanding_needs",
+    "preferences": {
+      "budget_range": "Not specified",
+      "colors": [],
+      "features": [],
+      "usage": ""
+    },
+    "recommendations_shown": 0,
+    "conversation_length": 2
+  },
+  "last_updated": "2025-08-07 16:41:43.581752"
+}

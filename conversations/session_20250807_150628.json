@@ -1,0 +1,81 @@
+{
+  "session_id": "20250807_150628",
+  "conversation_history": [
+    {
+      "type": "user",
+      "content": "hi",
+      "timestamp": "2025-08-07 15:06:33.071411"
+    },
+    {
+      "type": "bot",
+      "content": " Hello! I'm your hookah recommendation assistant. I'm here to help you find the perfect hookah based on your preferences and budget.\n\nI can help you with:\n Finding hookahs based on your needs\n Budget-friendly recommendations\n Color and design preferences\n Portable vs home hookah options\n LED and special features\n\nWhat kind of hookah are you looking for today?",
+      "timestamp": "2025-08-07 15:06:33.074615"
+    },
+    {
+      "type": "user",
+      "content": "I want portable hookah under 3000",
+      "timestamp": "2025-08-07 15:06:45.362347"
+    },
+    {
+      "type": "bot",
+      "content": "Great!  I understand your budget is around \u20b93000.  You're interested in: portable.\n\n **Here are my top 2 recommendations for you:**\n\n**1. Portable Acrylic Mini Tank Hookah**\n Price: Rs. 1,449.00\n Features:  Portable,  LED Light,  nan\" tall\n What are its key features? \n \nPortable design hookah\nGerman Clay Chillum\nPre-fitted Diffuser\nDecent acrylic base\nMetal Coal Tray\nSilicone pipe with a ...\n **[View Product](https://shopdop.in/products/portable-acrylic-mini-tank-hookah)**\n\n**2. og Rechargeable Long Hookah Starter (Smoke Maker)**\n Price: Rs. 999.00\n Features:  Portable,  nan\" tall\n Material: Plastic\n\nColor: Black\nEasy to use\nPortable device to start hookah\nCompatible with any hookah bowl/chillum\nDurable and Rechargeable\nFast char...\n **[View Product](https://shopdop.in/products/og-rechargeable-long-hookah-starter-smoke-maker)**\n\n **What would you like to know more about?**\n\u2022 More details about any of these products?\n\u2022 Different price range or features?\n\u2022 Other color options?",
+      "timestamp": "2025-08-07 15:06:45.546773"
+    },
+    {
+      "type": "user",
+      "content": "show me Led HOOKAH",
+      "timestamp": "2025-08-07 15:06:56.846604"
+    },
+    {
+      "type": "bot",
+      "content": "I'd like to understand your preferences better to give you more targeted recommendations.\n\nCould you tell me more about:\n **Primary Use**: Home sessions, travel, parties?\n **Budget Range**: What's comfortable for you to spend?\n **Style Preference**: Traditional glass or modern acrylic?\n **Portability**: Important for you or not necessary?\n **Special Features**: LED lights, unbreakable design, etc.?\n\nJust mention what's important to you, and I'll find the perfect match!",
+      "timestamp": "2025-08-07 15:06:56.846604"
+    },
+    {
+      "type": "user",
+      "content": "FOR party",
+      "timestamp": "2025-08-07 15:07:01.815398"
+    },
+    {
+      "type": "bot",
+      "content": "Thanks for the additional information! Let me find better matches for you.\n\n **Here are my top 2 recommendations for you:**\n\n**1. Acrylic Bottle Portable Tumbler Hookah with LED Light**\n Price: Rs. 799.00\n Available Colors: Orange, White, Green\n Features:  Portable,  LED Light,  nan\" tall\n Why to buy it? \n \nBottle shape hookah\nAcrylic body\nPortable model\nLED Light for a premium look\nGenerate dense smoke\nEasy to carry (good for outdoor se...\n **[View Product](https://shopdop.in/products/acrylic-bottle-portable-tumbler-hookah-with-led-light)**\n\n**2. Ice Crushed LED Portable Tumbler Hookah**\n Price: Rs. 1,349.00\n Features:  Portable,  LED Light,  12.0\" tall\n Easy to Handle\nPortable\nHigh quality acrylic material\nPre-fitted LED lights\nBattery operated LED\nProduce smooth dense smoke\nIce-crushed pattern\nGlass ...\n **[View Product](https://shopdop.in/products/ice-crushed-led-portable-tumbler-hookah)**\n\n **What would you like to know more about?**\n\u2022 More details about any of these products?\n\u2022 Different price range or features?\n\u2022 Other color options?",
+      "timestamp": "2025-08-07 15:07:01.939538"
+    },
+    {
+      "type": "user",
+      "content": "I want hookah for home usage",
+      "timestamp": "2025-08-07 15:07:16.716413"
+    },
+    {
+      "type": "bot",
+      "content": "I'd like to understand your preferences better to give you more targeted recommendations.\n\nCould you tell me more about:\n **Primary Use**: Home sessions, travel, parties?\n **Budget Range**: What's comfortable for you to spend?\n **Style Preference**: Traditional glass or modern acrylic?\n **Portability**: Important for you or not necessary?\n **Special Features**: LED lights, unbreakable design, etc.?\n\nJust mention what's important to you, and I'll find the perfect match!",
+      "timestamp": "2025-08-07 15:07:16.718122"
+    },
+    {
+      "type": "user",
+      "content": "unbreakable",
+      "timestamp": "2025-08-07 15:07:22.519995"
+    },
+    {
+      "type": "bot",
+      "content": "Thanks for the additional information! I've feature requirements understood. Let me find better matches for you.\n\nI couldn't find any products matching your exact criteria. Let me adjust the search parameters and try again.",
+      "timestamp": "2025-08-07 15:07:22.611531"
+    }
+  ],
+  "user_preferences": {
+    "state": "showing_products",
+    "preferences": {
+      "budget_range": "\u20b90 - \u20b93000",
+      "colors": [],
+      "features": [
+        "led",
+        "portable",
+        "unbreakable"
+      ],
+      "usage": "home"
+    },
+    "recommendations_shown": 0,
+    "conversation_length": 12
+  },
+  "last_updated": "2025-08-07 15:07:22.611531"
+}

@@ -1,0 +1,59 @@
+{
+  "session_id": "20250803_002209",
+  "conversation_history": [
+    {
+      "type": "user",
+      "content": "hi",
+      "timestamp": "2025-08-03 00:22:13.095688"
+    },
+    {
+      "type": "bot",
+      "content": " Hello! I'm your hookah recommendation assistant. I'm here to help you find the perfect hookah based on your preferences and budget.\n\nI can help you with:\n Finding hookahs based on your needs\n Budget-friendly recommendations\n Color and design preferences\n Portable vs home hookah options\n LED and special features\n\nWhat kind of hookah are you looking for today?",
+      "timestamp": "2025-08-03 00:22:13.101902"
+    },
+    {
+      "type": "user",
+      "content": "i need a portable hookah for travel",
+      "timestamp": "2025-08-03 00:22:27.214335"
+    },
+    {
+      "type": "bot",
+      "content": "Great!  You're interested in: portable.  For travel use.\n\n **Here are my top 2 recommendations for you:**\n\n**1. Hookah Carry Bag by Thugs**\n Price: Rs. 499.00\n Features:  Portable,  10.0\" tall\n What are its key features? \n \n\nDimensions: 10 x 10 x 10 inches\nCarry bag for hookah\nMust have hookah accessory\nDurable polyester fabric\nBest for small...\n **[View Product](https://shopdop.in/products/hookah-carry-bag-by-thugs)**\n\n**2. Portable Acrylic Mini Tank Hookah**\n Price: Rs. 1,449.00\n Features:  Portable,  LED Light,  nan\" tall\n What are its key features? \n \nPortable design hookah\nGerman Clay Chillum\nPre-fitted Diffuser\nDecent acrylic base\nMetal Coal Tray\nSilicone pipe with a ...\n **[View Product](https://shopdop.in/products/portable-acrylic-mini-tank-hookah)**\n\n **What would you like to know more about?**\n\u2022 More details about any of these products?\n\u2022 Different price range or features?\n\u2022 Other color options?",
+      "timestamp": "2025-08-03 00:22:27.306146"
+    },
+    {
+      "type": "user",
+      "content": "Show me hookahs under 2000 rupees",
+      "timestamp": "2025-08-03 00:22:33.587744"
+    },
+    {
+      "type": "bot",
+      "content": "I'd like to understand your preferences better to give you more targeted recommendations.\n\nCould you tell me more about:\n **Primary Use**: Home sessions, travel, parties?\n **Budget Range**: What's comfortable for you to spend?\n **Style Preference**: Traditional glass or modern acrylic?\n **Portability**: Important for you or not necessary?\n **Special Features**: LED lights, unbreakable design, etc.?\n\nJust mention what's important to you, and I'll find the perfect match!",
+      "timestamp": "2025-08-03 00:22:33.587744"
+    },
+    {
+      "type": "user",
+      "content": "Show me hookahs under 2000 rupees",
+      "timestamp": "2025-08-03 00:22:38.312092"
+    },
+    {
+      "type": "bot",
+      "content": "Thanks for the additional information! I've budget updated. Let me find better matches for you.\n\n **Here are my top 2 recommendations for you:**\n\n**1. Hookah Carry Bag by Thugs**\n Price: Rs. 499.00\n Features:  Portable,  10.0\" tall\n What are its key features? \n \n\nDimensions: 10 x 10 x 10 inches\nCarry bag for hookah\nMust have hookah accessory\nDurable polyester fabric\nBest for small...\n **[View Product](https://shopdop.in/products/hookah-carry-bag-by-thugs)**\n\n**2. Portable Acrylic Mini Tank Hookah**\n Price: Rs. 1,449.00\n Features:  Portable,  LED Light,  nan\" tall\n What are its key features? \n \nPortable design hookah\nGerman Clay Chillum\nPre-fitted Diffuser\nDecent acrylic base\nMetal Coal Tray\nSilicone pipe with a ...\n **[View Product](https://shopdop.in/products/portable-acrylic-mini-tank-hookah)**\n\n **What would you like to know more about?**\n\u2022 More details about any of these products?\n\u2022 Different price range or features?\n\u2022 Other color options?",
+      "timestamp": "2025-08-03 00:22:38.386410"
+    }
+  ],
+  "user_preferences": {
+    "state": "showing_products",
+    "preferences": {
+      "budget_range": "\u20b90 - \u20b92000",
+      "colors": [],
+      "features": [
+        "portable"
+      ],
+      "usage": "travel"
+    },
+    "recommendations_shown": 2,
+    "conversation_length": 8
+  },
+  "last_updated": "2025-08-03 00:22:38.386410"
+}

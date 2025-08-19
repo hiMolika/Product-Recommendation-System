@@ -1,0 +1,39 @@
+{
+  "session_id": "20250807_145149",
+  "conversation_history": [
+    {
+      "type": "user",
+      "content": "HI",
+      "timestamp": "2025-08-07 14:52:00.136421"
+    },
+    {
+      "type": "bot",
+      "content": " Hello! I'm your hookah recommendation assistant. I'm here to help you find the perfect hookah based on your preferences and budget.\n\nI can help you with:\n Finding hookahs based on your needs\n Budget-friendly recommendations\n Color and design preferences\n Portable vs home hookah options\n LED and special features\n\nWhat kind of hookah are you looking for today?",
+      "timestamp": "2025-08-07 14:52:00.141023"
+    },
+    {
+      "type": "user",
+      "content": "I want portable hookah for travel",
+      "timestamp": "2025-08-07 14:52:15.604980"
+    },
+    {
+      "type": "bot",
+      "content": "Great!  You're interested in: portable.  For travel use.\n\n **Here are my top 2 recommendations for you:**\n\n**1. Hookah Carry Bag by Thugs**\n Price: Rs. 499.00\n Features:  Portable,  10.0\" tall\n What are its key features? \n \n\nDimensions: 10 x 10 x 10 inches\nCarry bag for hookah\nMust have hookah accessory\nDurable polyester fabric\nBest for small...\n **[View Product](https://shopdop.in/products/hookah-carry-bag-by-thugs)**\n\n**2. Portable Acrylic Mini Tank Hookah**\n Price: Rs. 1,449.00\n Features:  Portable,  LED Light,  nan\" tall\n What are its key features? \n \nPortable design hookah\nGerman Clay Chillum\nPre-fitted Diffuser\nDecent acrylic base\nMetal Coal Tray\nSilicone pipe with a ...\n **[View Product](https://shopdop.in/products/portable-acrylic-mini-tank-hookah)**\n\n **What would you like to know more about?**\n\u2022 More details about any of these products?\n\u2022 Different price range or features?\n\u2022 Other color options?",
+      "timestamp": "2025-08-07 14:52:15.751996"
+    }
+  ],
+  "user_preferences": {
+    "state": "showing_products",
+    "preferences": {
+      "budget_range": "Not specified",
+      "colors": [],
+      "features": [
+        "portable"
+      ],
+      "usage": "travel"
+    },
+    "recommendations_shown": 2,
+    "conversation_length": 4
+  },
+  "last_updated": "2025-08-07 14:52:15.751996"
+}

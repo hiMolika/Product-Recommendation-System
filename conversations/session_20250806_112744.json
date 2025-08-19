@@ -1,0 +1,89 @@
+{
+  "session_id": "20250806_112744",
+  "conversation_history": [
+    {
+      "type": "user",
+      "content": "hi",
+      "timestamp": "2025-08-06 11:45:33.563269"
+    },
+    {
+      "type": "bot",
+      "content": " Hello! I'm your hookah recommendation assistant. I'm here to help you find the perfect hookah based on your preferences and budget.\n\nI can help you with:\n Finding hookahs based on your needs\n Budget-friendly recommendations\n Color and design preferences\n Portable vs home hookah options\n LED and special features\n\nWhat kind of hookah are you looking for today?",
+      "timestamp": "2025-08-06 11:45:33.565626"
+    },
+    {
+      "type": "user",
+      "content": "i want mya luna hookah",
+      "timestamp": "2025-08-06 11:46:19.880278"
+    },
+    {
+      "type": "bot",
+      "content": "I'd love to help you find the perfect hookah!\n\nTo give you the best recommendations, could you tell me:\n\u2022 What's your budget range?\n\u2022 Do you need it to be portable for travel?\n\u2022 Are you interested in LED lighting?\n\u2022 Will you use it at home, for travel, or parties?",
+      "timestamp": "2025-08-06 11:46:19.882436"
+    },
+    {
+      "type": "user",
+      "content": "under 2000",
+      "timestamp": "2025-08-06 11:46:27.679006"
+    },
+    {
+      "type": "bot",
+      "content": "Great!  I understand your budget is around \u20b92000.\n\n **Here are my top 2 recommendations for you:**\n\n**1. Acrylic Rocket Hookah**\n Price: Rs. 4,000.00\n Available Colors: Purple, Blue, Silver, Golden\n Features:  LED Light,  24.0\" tall\n Rocket Hookah is a class hookah with a Rocket-like shape. It's a slim and tall shisha. This designer hookah has many unique qualities.\n **[View Product](https://shopdop.in/products/acrylic-rocket-hookah)**\n\n**2. Gizmo Hookah**\n Price: Rs. 2,999.00\n Available Colors: Blue, Silver, Brown\n Features:  nan\" tall\n Why to buy it? \n \n\nX Function: Another model in our collection with the latest X Function technology. No pressure valve (back smoke exhales from the s...\n **[View Product](https://shopdop.in/products/gizmo-hookah)**\n\n **What would you like to know more about?**\n\u2022 More details about any of these products?\n\u2022 Different price range or features?\n\u2022 Other color options?",
+      "timestamp": "2025-08-06 11:46:27.683959"
+    },
+    {
+      "type": "user",
+      "content": "i want argument hookah",
+      "timestamp": "2025-08-06 11:48:37.848986"
+    },
+    {
+      "type": "bot",
+      "content": "I'd like to understand your preferences better to give you more targeted recommendations.\n\nCould you tell me more about:\n **Primary Use**: Home sessions, travel, parties?\n **Budget Range**: What's comfortable for you to spend?\n **Style Preference**: Traditional glass or modern acrylic?\n **Portability**: Important for you or not necessary?\n **Special Features**: LED lights, unbreakable design, etc.?\n\nJust mention what's important to you, and I'll find the perfect match!",
+      "timestamp": "2025-08-06 11:48:37.851984"
+    },
+    {
+      "type": "user",
+      "content": "under 5000",
+      "timestamp": "2025-08-06 11:48:45.979108"
+    },
+    {
+      "type": "bot",
+      "content": "Thanks for the additional information! I've budget updated. Let me find better matches for you.\n\n **Here are my top 2 recommendations for you:**\n\n**1. Acrylic Rocket Hookah**\n Price: Rs. 4,000.00\n Available Colors: Purple, Blue, Silver, Golden\n Features:  LED Light,  24.0\" tall\n Rocket Hookah is a class hookah with a Rocket-like shape. It's a slim and tall shisha. This designer hookah has many unique qualities.\n **[View Product](https://shopdop.in/products/acrylic-rocket-hookah)**\n\n**2. Gizmo Hookah**\n Price: Rs. 2,999.00\n Available Colors: Blue, Silver, Brown\n Features:  nan\" tall\n Why to buy it? \n \n\nX Function: Another model in our collection with the latest X Function technology. No pressure valve (back smoke exhales from the s...\n **[View Product](https://shopdop.in/products/gizmo-hookah)**\n\n **What would you like to know more about?**\n\u2022 More details about any of these products?\n\u2022 Different price range or features?\n\u2022 Other color options?",
+      "timestamp": "2025-08-06 11:48:45.983107"
+    },
+    {
+      "type": "user",
+      "content": "blue color hookah",
+      "timestamp": "2025-08-06 11:48:58.566303"
+    },
+    {
+      "type": "bot",
+      "content": "I'd like to understand your preferences better to give you more targeted recommendations.\n\nCould you tell me more about:\n **Primary Use**: Home sessions, travel, parties?\n **Budget Range**: What's comfortable for you to spend?\n **Style Preference**: Traditional glass or modern acrylic?\n **Portability**: Important for you or not necessary?\n **Special Features**: LED lights, unbreakable design, etc.?\n\nJust mention what's important to you, and I'll find the perfect match!",
+      "timestamp": "2025-08-06 11:48:58.569356"
+    },
+    {
+      "type": "user",
+      "content": "blue",
+      "timestamp": "2025-08-06 11:49:02.704937"
+    },
+    {
+      "type": "bot",
+      "content": "Thanks for the additional information! I've color preferences noted. Let me find better matches for you.\n\n **Here are my top 2 recommendations for you:**\n\n**1. MYA Picino Hookah**\n Price: Rs. 1,850.00\n Available Colors: Sky Blue, Light Purple, Grey\n Features:  nan\" tall\n Brand: MYA\nNewly added model\nHeavy & strong glass pot\nMetallic fine quality upper stem\nCeramic traditional bowl\nLeather coated pipe\nMetallic tong & ch...\n **[View Product](https://shopdop.in/products/mya-picino-hookah)**\n\n **What would you like to know more about?**\n\u2022 More details about any of these products?\n\u2022 Different price range or features?\n\u2022 Other color options?",
+      "timestamp": "2025-08-06 11:49:02.996430"
+    }
+  ],
+  "user_preferences": {
+    "state": "showing_products",
+    "preferences": {
+      "budget_range": "\u20b90 - \u20b95000",
+      "colors": [
+        "blue"
+      ],
+      "features": [],
+      "usage": ""
+    },
+    "recommendations_shown": 1,
+    "conversation_length": 14
+  },
+  "last_updated": "2025-08-06 11:49:02.996430"
+}

@@ -1,0 +1,47 @@
+{
+  "session_id": "20250802_023436",
+  "conversation_history": [
+    {
+      "type": "user",
+      "content": "hi\\",
+      "timestamp": "2025-08-02 03:02:05.477142"
+    },
+    {
+      "type": "bot",
+      "content": " Hello! I'm your hookah recommendation assistant. I'm here to help you find the perfect hookah based on your preferences and budget.\n\nI can help you with:\n Finding hookahs based on your needs\n Budget-friendly recommendations\n Color and design preferences\n Portable vs home hookah options\n LED and special features\n\nWhat kind of hookah are you looking for today?",
+      "timestamp": "2025-08-02 03:02:05.477142"
+    },
+    {
+      "type": "user",
+      "content": "home use hookah",
+      "timestamp": "2025-08-02 03:02:10.628681"
+    },
+    {
+      "type": "bot",
+      "content": "Great!  For home use.",
+      "timestamp": "2025-08-02 03:02:10.628681"
+    },
+    {
+      "type": "user",
+      "content": "recommend me",
+      "timestamp": "2025-08-02 03:02:19.589158"
+    },
+    {
+      "type": "bot",
+      "content": "Great!  For home use.\n\n **Here are my top 2 recommendations for you:**\n\n**1. og Hobo Hookah - Portable Hookah**\n Price: Rs. 999.00\n Available Colors: Silver, Red, Brown, Blue, Golden, Black\n Features:  Portable,  nan\" tall\n Popularly known as hobo set, some people say it hobo hukka as well. It helps in converting any bottle into hookah, jack daniels, blue label, black lab...\n **[View Product](https://shopdop.in/products/og-hobo-hookah-portable-hookah)**\n\n**2. Acrylic Hoob Cube Hookah**\n Price: Rs. 7,850.00\n Features:  Portable,  LED Light,  nan\" tall\n \n **[View Product](https://shopdop.in/products/hoob-cube-hookah)**\n\n **What would you like to know more about?**\n\u2022 More details about any of these products?\n\u2022 Different price range or features?\n\u2022 Other color options?",
+      "timestamp": "2025-08-02 03:02:19.752691"
+    }
+  ],
+  "user_preferences": {
+    "state": "showing_products",
+    "preferences": {
+      "budget_range": "Not specified",
+      "colors": [],
+      "features": [],
+      "usage": "home"
+    },
+    "recommendations_shown": 2,
+    "conversation_length": 6
+  },
+  "last_updated": "2025-08-02 03:02:19.752691"
+}

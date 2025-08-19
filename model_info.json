@@ -1,0 +1,14 @@
+{
+  "products_processed": 193,
+  "training_samples": 200,
+  "embedding_dimension": 384,
+  "training_time_seconds": 19.128598,
+  "model_file_size_mb": 0.780400276184082,
+  "performance_metrics": {
+    "total_queries": 8,
+    "successful_recommendations": 8,
+    "average_response_time": 0.04796675,
+    "recommendation_diversity": 0.625,
+    "success_rate": 1.0
+  }
+}

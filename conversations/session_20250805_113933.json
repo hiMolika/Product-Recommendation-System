@@ -1,0 +1,191 @@
+{
+  "session_id": "20250805_113933",
+  "conversation_history": [
+    {
+      "type": "user",
+      "content": "hi",
+      "timestamp": "2025-08-05 11:46:25.892324"
+    },
+    {
+      "type": "bot",
+      "content": " Hello! I'm your hookah recommendation assistant. I'm here to help you find the perfect hookah based on your preferences and budget.\n\nI can help you with:\n Finding hookahs based on your needs\n Budget-friendly recommendations\n Color and design preferences\n Portable vs home hookah options\n LED and special features\n\nWhat kind of hookah are you looking for today?",
+      "timestamp": "2025-08-05 11:46:25.893505"
+    },
+    {
+      "type": "user",
+      "content": "i want hookah for home",
+      "timestamp": "2025-08-05 11:46:34.840796"
+    },
+    {
+      "type": "bot",
+      "content": "Great!  For home use.",
+      "timestamp": "2025-08-05 11:46:34.840796"
+    },
+    {
+      "type": "user",
+      "content": "unbreakable",
+      "timestamp": "2025-08-05 11:46:44.078316"
+    },
+    {
+      "type": "bot",
+      "content": "Great!  You're interested in: unbreakable.  For home use.\n\n **Here are my top 2 recommendations for you:**\n\n**1. Compact Unbreakable Hookah**\n Price: Rs. 999.00\n Available Colors: Pink, Red, Green\n Features:  Portable,  15.0\" tall\n Unbreakable, because it's made up of acrylic.\nGlass shisha bases have very high chances of breakage.\n\nAcrylic Hookahsare always better.\n **[View Product](https://shopdop.in/products/compact-unbreakable-hookah)**\n\n**2. Sipper Hookah**\n Price: Rs. 700.00\n Features:  nan\" tall\n Compact size hookah\nBest for portability and travel purpose\nUnbreakable\nDiffuser is included \nGenerates good clouds\n **[View Product](https://shopdop.in/products/sipper-hookah)**\n\n **What would you like to know more about?**\n\u2022 More details about any of these products?\n\u2022 Different price range or features?\n\u2022 Other color options?",
+      "timestamp": "2025-08-05 11:46:44.169944"
+    },
+    {
+      "type": "user",
+      "content": "i want hookah for travel",
+      "timestamp": "2025-08-05 11:47:03.104423"
+    },
+    {
+      "type": "bot",
+      "content": "I'd like to understand your preferences better to give you more targeted recommendations.\n\nCould you tell me more about:\n **Primary Use**: Home sessions, travel, parties?\n **Budget Range**: What's comfortable for you to spend?\n **Style Preference**: Traditional glass or modern acrylic?\n **Portability**: Important for you or not necessary?\n **Special Features**: LED lights, unbreakable design, etc.?\n\nJust mention what's important to you, and I'll find the perfect match!",
+      "timestamp": "2025-08-05 11:47:03.110513"
+    },
+    {
+      "type": "user",
+      "content": "under 2000",
+      "timestamp": "2025-08-05 11:47:11.067976"
+    },
+    {
+      "type": "bot",
+      "content": "Thanks for the additional information! I've budget updated. Let me find better matches for you.\n\n **Here are my top 2 recommendations for you:**\n\n**1. Compact Unbreakable Hookah**\n Price: Rs. 999.00\n Available Colors: Pink, Red, Green\n Features:  Portable,  15.0\" tall\n Unbreakable, because it's made up of acrylic.\nGlass shisha bases have very high chances of breakage.\n\nAcrylic Hookahsare always better.\n **[View Product](https://shopdop.in/products/compact-unbreakable-hookah)**\n\n **What would you like to know more about?**\n\u2022 More details about any of these products?\n\u2022 Different price range or features?\n\u2022 Other color options?",
+      "timestamp": "2025-08-05 11:47:11.212811"
+    },
+    {
+      "type": "user",
+      "content": "i want hookah for home",
+      "timestamp": "2025-08-05 11:47:26.724490"
+    },
+    {
+      "type": "bot",
+      "content": "I'd like to understand your preferences better to give you more targeted recommendations.\n\nCould you tell me more about:\n **Primary Use**: Home sessions, travel, parties?\n **Budget Range**: What's comfortable for you to spend?\n **Style Preference**: Traditional glass or modern acrylic?\n **Portability**: Important for you or not necessary?\n **Special Features**: LED lights, unbreakable design, etc.?\n\nJust mention what's important to you, and I'll find the perfect match!",
+      "timestamp": "2025-08-05 11:47:26.727100"
+    },
+    {
+      "type": "user",
+      "content": "under 2000",
+      "timestamp": "2025-08-05 11:47:40.009939"
+    },
+    {
+      "type": "bot",
+      "content": "Thanks for the additional information! I've budget updated. Let me find better matches for you.\n\n **Here are my top 2 recommendations for you:**\n\n**1. Compact Unbreakable Hookah**\n Price: Rs. 999.00\n Available Colors: Pink, Red, Green\n Features:  Portable,  15.0\" tall\n Unbreakable, because it's made up of acrylic.\nGlass shisha bases have very high chances of breakage.\n\nAcrylic Hookahsare always better.\n **[View Product](https://shopdop.in/products/compact-unbreakable-hookah)**\n\n **What would you like to know more about?**\n\u2022 More details about any of these products?\n\u2022 Different price range or features?\n\u2022 Other color options?",
+      "timestamp": "2025-08-05 11:47:40.177698"
+    },
+    {
+      "type": "user",
+      "content": "i want hookah for party",
+      "timestamp": "2025-08-05 11:47:55.181731"
+    },
+    {
+      "type": "bot",
+      "content": "I'd like to understand your preferences better to give you more targeted recommendations.\n\nCould you tell me more about:\n **Primary Use**: Home sessions, travel, parties?\n **Budget Range**: What's comfortable for you to spend?\n **Style Preference**: Traditional glass or modern acrylic?\n **Portability**: Important for you or not necessary?\n **Special Features**: LED lights, unbreakable design, etc.?\n\nJust mention what's important to you, and I'll find the perfect match!",
+      "timestamp": "2025-08-05 11:47:55.189606"
+    },
+    {
+      "type": "user",
+      "content": "show me LED hookah",
+      "timestamp": "2025-08-05 11:48:17.259860"
+    },
+    {
+      "type": "bot",
+      "content": "Thanks for the additional information! I've feature requirements understood. Let me find better matches for you.\n\nI couldn't find any products matching your exact criteria. Let me adjust the search parameters and try again.",
+      "timestamp": "2025-08-05 11:48:17.524558"
+    },
+    {
+      "type": "user",
+      "content": "under 5000",
+      "timestamp": "2025-08-05 11:48:26.510459"
+    },
+    {
+      "type": "bot",
+      "content": "I'd like to understand your preferences better to give you more targeted recommendations.\n\nCould you tell me more about:\n **Primary Use**: Home sessions, travel, parties?\n **Budget Range**: What's comfortable for you to spend?\n **Style Preference**: Traditional glass or modern acrylic?\n **Portability**: Important for you or not necessary?\n **Special Features**: LED lights, unbreakable design, etc.?\n\nJust mention what's important to you, and I'll find the perfect match!",
+      "timestamp": "2025-08-05 11:48:26.516551"
+    },
+    {
+      "type": "user",
+      "content": "i want hookah for party",
+      "timestamp": "2025-08-05 11:48:36.478237"
+    },
+    {
+      "type": "bot",
+      "content": "Thanks for the additional information! Let me find better matches for you.\n\nI couldn't find any products matching your exact criteria. Let me adjust the search parameters and try again.",
+      "timestamp": "2025-08-05 11:48:36.718849"
+    },
+    {
+      "type": "user",
+      "content": "i want hookah for party",
+      "timestamp": "2025-08-05 11:48:50.050249"
+    },
+    {
+      "type": "bot",
+      "content": "I'd like to understand your preferences better to give you more targeted recommendations.\n\nCould you tell me more about:\n **Primary Use**: Home sessions, travel, parties?\n **Budget Range**: What's comfortable for you to spend?\n **Style Preference**: Traditional glass or modern acrylic?\n **Portability**: Important for you or not necessary?\n **Special Features**: LED lights, unbreakable design, etc.?\n\nJust mention what's important to you, and I'll find the perfect match!",
+      "timestamp": "2025-08-05 11:48:50.058438"
+    },
+    {
+      "type": "user",
+      "content": "under 5000",
+      "timestamp": "2025-08-05 11:48:56.464476"
+    },
+    {
+      "type": "bot",
+      "content": "Thanks for the additional information! I've budget updated. Let me find better matches for you.\n\nI couldn't find any products matching your exact criteria. Let me adjust the search parameters and try again.",
+      "timestamp": "2025-08-05 11:48:56.616593"
+    },
+    {
+      "type": "user",
+      "content": "i want LED hookah",
+      "timestamp": "2025-08-05 11:49:14.678653"
+    },
+    {
+      "type": "bot",
+      "content": "I'd like to understand your preferences better to give you more targeted recommendations.\n\nCould you tell me more about:\n **Primary Use**: Home sessions, travel, parties?\n **Budget Range**: What's comfortable for you to spend?\n **Style Preference**: Traditional glass or modern acrylic?\n **Portability**: Important for you or not necessary?\n **Special Features**: LED lights, unbreakable design, etc.?\n\nJust mention what's important to you, and I'll find the perfect match!",
+      "timestamp": "2025-08-05 11:49:14.686974"
+    },
+    {
+      "type": "user",
+      "content": "under 2000",
+      "timestamp": "2025-08-05 11:49:20.178862"
+    },
+    {
+      "type": "bot",
+      "content": "Thanks for the additional information! I've budget updated. Let me find better matches for you.\n\nI couldn't find any products matching your exact criteria. Let me adjust the search parameters and try again.",
+      "timestamp": "2025-08-05 11:49:20.345576"
+    },
+    {
+      "type": "user",
+      "content": "i want poratble hookahs for travel",
+      "timestamp": "2025-08-05 11:49:35.025507"
+    },
+    {
+      "type": "bot",
+      "content": "I'd like to understand your preferences better to give you more targeted recommendations.\n\nCould you tell me more about:\n **Primary Use**: Home sessions, travel, parties?\n **Budget Range**: What's comfortable for you to spend?\n **Style Preference**: Traditional glass or modern acrylic?\n **Portability**: Important for you or not necessary?\n **Special Features**: LED lights, unbreakable design, etc.?\n\nJust mention what's important to you, and I'll find the perfect match!",
+      "timestamp": "2025-08-05 11:49:35.032938"
+    },
+    {
+      "type": "user",
+      "content": "unbreakable",
+      "timestamp": "2025-08-05 11:49:44.319576"
+    },
+    {
+      "type": "bot",
+      "content": "Thanks for the additional information! I've feature requirements understood. Let me find better matches for you.\n\nI couldn't find any products matching your exact criteria. Let me adjust the search parameters and try again.",
+      "timestamp": "2025-08-05 11:49:44.552977"
+    }
+  ],
+  "user_preferences": {
+    "state": "showing_products",
+    "preferences": {
+      "budget_range": "\u20b90 - \u20b92000",
+      "colors": [],
+      "features": [
+        "unbreakable",
+        "portable",
+        "led"
+      ],
+      "usage": "travel"
+    },
+    "recommendations_shown": 0,
+    "conversation_length": 34
+  },
+  "last_updated": "2025-08-05 11:49:44.552977"
+}

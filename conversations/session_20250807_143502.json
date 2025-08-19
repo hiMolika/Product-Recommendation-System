@@ -1,0 +1,60 @@
+{
+  "session_id": "20250807_143502",
+  "conversation_history": [
+    {
+      "type": "user",
+      "content": "hhi",
+      "timestamp": "2025-08-07 14:35:07.715623"
+    },
+    {
+      "type": "bot",
+      "content": " Hello! I'm your hookah recommendation assistant. I'm here to help you find the perfect hookah based on your preferences and budget.\n\nI can help you with:\n Finding hookahs based on your needs\n Budget-friendly recommendations\n Color and design preferences\n Portable vs home hookah options\n LED and special features\n\nWhat kind of hookah are you looking for today?",
+      "timestamp": "2025-08-07 14:35:07.723887"
+    },
+    {
+      "type": "user",
+      "content": "I want portable hookah under 3000 with LED",
+      "timestamp": "2025-08-07 14:36:04.668447"
+    },
+    {
+      "type": "bot",
+      "content": "Great!  I understand your budget is around \u20b93000.  You're interested in: portable, led.\n\n **Here are my top 2 recommendations for you:**\n\n**1. Acrylic Bottle Portable Tumbler Hookah with LED Light**\n Price: Rs. 799.00\n Available Colors: Orange, White, Green\n Features:  Portable,  LED Light,  nan\" tall\n Why to buy it? \n \nBottle shape hookah\nAcrylic body\nPortable model\nLED Light for a premium look\nGenerate dense smoke\nEasy to carry (good for outdoor se...\n **[View Product](https://shopdop.in/products/acrylic-bottle-portable-tumbler-hookah-with-led-light)**\n\n**2. Mouth Tip with RGB LED Light**\n Price: Rs. 349.00\n Features:  Portable,  LED Light,  nan\" tall\n Easy to use, clean and carry\nPremium hookah accessory\nHygenic product\nSilicone tip with designer mouth tip\nOn/off button for LED light\nMulticolor ligh...\n **[View Product](https://shopdop.in/products/hookah-mouth-tip-nozzle-with-multicolor-led-light)**\n\n **What would you like to know more about?**\n\u2022 More details about any of these products?\n\u2022 Different price range or features?\n\u2022 Other color options?",
+      "timestamp": "2025-08-07 14:36:04.792233"
+    },
+    {
+      "type": "user",
+      "content": "I WANT portable hookah",
+      "timestamp": "2025-08-07 14:36:42.955609"
+    },
+    {
+      "type": "bot",
+      "content": "I'd like to understand your preferences better to give you more targeted recommendations.\n\nCould you tell me more about:\n **Primary Use**: Home sessions, travel, parties?\n **Budget Range**: What's comfortable for you to spend?\n **Style Preference**: Traditional glass or modern acrylic?\n **Portability**: Important for you or not necessary?\n **Special Features**: LED lights, unbreakable design, etc.?\n\nJust mention what's important to you, and I'll find the perfect match!",
+      "timestamp": "2025-08-07 14:36:42.962894"
+    },
+    {
+      "type": "user",
+      "content": "under 3000",
+      "timestamp": "2025-08-07 14:36:50.533590"
+    },
+    {
+      "type": "bot",
+      "content": "Thanks for the additional information! I've budget updated. Let me find better matches for you.\n\n **Here are my top 2 recommendations for you:**\n\n**1. Acrylic Bottle Portable Tumbler Hookah with LED Light**\n Price: Rs. 799.00\n Available Colors: Orange, White, Green\n Features:  Portable,  LED Light,  nan\" tall\n Why to buy it? \n \nBottle shape hookah\nAcrylic body\nPortable model\nLED Light for a premium look\nGenerate dense smoke\nEasy to carry (good for outdoor se...\n **[View Product](https://shopdop.in/products/acrylic-bottle-portable-tumbler-hookah-with-led-light)**\n\n**2. Mouth Tip with RGB LED Light**\n Price: Rs. 349.00\n Features:  Portable,  LED Light,  nan\" tall\n Easy to use, clean and carry\nPremium hookah accessory\nHygenic product\nSilicone tip with designer mouth tip\nOn/off button for LED light\nMulticolor ligh...\n **[View Product](https://shopdop.in/products/hookah-mouth-tip-nozzle-with-multicolor-led-light)**\n\n **What would you like to know more about?**\n\u2022 More details about any of these products?\n\u2022 Different price range or features?\n\u2022 Other color options?",
+      "timestamp": "2025-08-07 14:36:50.655431"
+    }
+  ],
+  "user_preferences": {
+    "state": "showing_products",
+    "preferences": {
+      "budget_range": "\u20b90 - \u20b93000",
+      "colors": [],
+      "features": [
+        "portable",
+        "led"
+      ],
+      "usage": ""
+    },
+    "recommendations_shown": 2,
+    "conversation_length": 8
+  },
+  "last_updated": "2025-08-07 14:36:50.655431"
+}

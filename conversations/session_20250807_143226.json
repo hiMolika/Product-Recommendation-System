@@ -1,0 +1,80 @@
+{
+  "session_id": "20250807_143226",
+  "conversation_history": [
+    {
+      "type": "user",
+      "content": "hi",
+      "timestamp": "2025-08-07 14:32:36.328189"
+    },
+    {
+      "type": "bot",
+      "content": " Hello! I'm your hookah recommendation assistant. I'm here to help you find the perfect hookah based on your preferences and budget.\n\nI can help you with:\n Finding hookahs based on your needs\n Budget-friendly recommendations\n Color and design preferences\n Portable vs home hookah options\n LED and special features\n\nWhat kind of hookah are you looking for today?",
+      "timestamp": "2025-08-07 14:32:36.335058"
+    },
+    {
+      "type": "user",
+      "content": "i want hookah for home unbreakable",
+      "timestamp": "2025-08-07 14:32:53.052391"
+    },
+    {
+      "type": "bot",
+      "content": "Great!  You're interested in: unbreakable.  For home use.\n\n **Here are my top 2 recommendations for you:**\n\n**1. Compact Unbreakable Hookah**\n Price: Rs. 999.00\n Available Colors: Pink, Red, Green\n Features:  Portable,  15.0\" tall\n Unbreakable, because it's made up of acrylic.\nGlass shisha bases have very high chances of breakage.\n\nAcrylic Hookahsare always better.\n **[View Product](https://shopdop.in/products/compact-unbreakable-hookah)**\n\n**2. Sipper Hookah**\n Price: Rs. 700.00\n Features:  nan\" tall\n Compact size hookah\nBest for portability and travel purpose\nUnbreakable\nDiffuser is included \nGenerates good clouds\n **[View Product](https://shopdop.in/products/sipper-hookah)**\n\n **What would you like to know more about?**\n\u2022 More details about any of these products?\n\u2022 Different price range or features?\n\u2022 Other color options?",
+      "timestamp": "2025-08-07 14:32:53.173880"
+    },
+    {
+      "type": "user",
+      "content": "show me LED hookah for party",
+      "timestamp": "2025-08-07 14:33:10.690120"
+    },
+    {
+      "type": "bot",
+      "content": "I'd like to understand your preferences better to give you more targeted recommendations.\n\nCould you tell me more about:\n **Primary Use**: Home sessions, travel, parties?\n **Budget Range**: What's comfortable for you to spend?\n **Style Preference**: Traditional glass or modern acrylic?\n **Portability**: Important for you or not necessary?\n **Special Features**: LED lights, unbreakable design, etc.?\n\nJust mention what's important to you, and I'll find the perfect match!",
+      "timestamp": "2025-08-07 14:33:10.690120"
+    },
+    {
+      "type": "user",
+      "content": "under 3000",
+      "timestamp": "2025-08-07 14:33:16.396455"
+    },
+    {
+      "type": "bot",
+      "content": "Thanks for the additional information! I've budget updated. Let me find better matches for you.\n\nI couldn't find any products matching your exact criteria. Let me adjust the search parameters and try again.",
+      "timestamp": "2025-08-07 14:33:16.526408"
+    },
+    {
+      "type": "user",
+      "content": "show me LED hookah",
+      "timestamp": "2025-08-07 14:33:26.023109"
+    },
+    {
+      "type": "bot",
+      "content": "I'd like to understand your preferences better to give you more targeted recommendations.\n\nCould you tell me more about:\n **Primary Use**: Home sessions, travel, parties?\n **Budget Range**: What's comfortable for you to spend?\n **Style Preference**: Traditional glass or modern acrylic?\n **Portability**: Important for you or not necessary?\n **Special Features**: LED lights, unbreakable design, etc.?\n\nJust mention what's important to you, and I'll find the perfect match!",
+      "timestamp": "2025-08-07 14:33:26.030782"
+    },
+    {
+      "type": "user",
+      "content": "for party",
+      "timestamp": "2025-08-07 14:33:30.996238"
+    },
+    {
+      "type": "bot",
+      "content": "Thanks for the additional information! Let me find better matches for you.\n\nI couldn't find any products matching your exact criteria. Let me adjust the search parameters and try again.",
+      "timestamp": "2025-08-07 14:33:31.154180"
+    }
+  ],
+  "user_preferences": {
+    "state": "showing_products",
+    "preferences": {
+      "budget_range": "\u20b90 - \u20b93000",
+      "colors": [],
+      "features": [
+        "led",
+        "unbreakable"
+      ],
+      "usage": "party"
+    },
+    "recommendations_shown": 0,
+    "conversation_length": 12
+  },
+  "last_updated": "2025-08-07 14:33:31.154180"
+}

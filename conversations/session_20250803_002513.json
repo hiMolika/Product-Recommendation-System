@@ -1,0 +1,77 @@
+{
+  "session_id": "20250803_002513",
+  "conversation_history": [
+    {
+      "type": "user",
+      "content": "hi",
+      "timestamp": "2025-08-03 00:25:19.243789"
+    },
+    {
+      "type": "bot",
+      "content": " Hello! I'm your hookah recommendation assistant. I'm here to help you find the perfect hookah based on your preferences and budget.\n\nI can help you with:\n Finding hookahs based on your needs\n Budget-friendly recommendations\n Color and design preferences\n Portable vs home hookah options\n LED and special features\n\nWhat kind of hookah are you looking for today?",
+      "timestamp": "2025-08-03 00:25:19.256554"
+    },
+    {
+      "type": "user",
+      "content": "Show me hookahs under \u20b92000",
+      "timestamp": "2025-08-03 00:25:23.772214"
+    },
+    {
+      "type": "bot",
+      "content": "Great!  I understand your budget is around \u20b92000.\n\n **Here are my top 2 recommendations for you:**\n\n**1. Acrylic Rocket Hookah**\n Price: Rs. 4,000.00\n Available Colors: Purple, Blue, Silver, Golden\n Features:  LED Light,  24.0\" tall\n Rocket Hookah is a class hookah with a Rocket-like shape. It's a slim and tall shisha. This designer hookah has many unique qualities.\n **[View Product](https://shopdop.in/products/acrylic-rocket-hookah)**\n\n**2. Gizmo Hookah**\n Price: Rs. 2,999.00\n Available Colors: Blue, Silver, Brown\n Features:  nan\" tall\n Why to buy it? \n \n\nX Function: Another model in our collection with the latest X Function technology. No pressure valve (back smoke exhales from the s...\n **[View Product](https://shopdop.in/products/gizmo-hookah)**\n\n **What would you like to know more about?**\n\u2022 More details about any of these products?\n\u2022 Different price range or features?\n\u2022 Other color options?",
+      "timestamp": "2025-08-03 00:25:23.793741"
+    },
+    {
+      "type": "user",
+      "content": "Show me hookahs under \u20b92000",
+      "timestamp": "2025-08-03 00:25:31.723590"
+    },
+    {
+      "type": "bot",
+      "content": "I'd like to understand your preferences better to give you more targeted recommendations.\n\nCould you tell me more about:\n **Primary Use**: Home sessions, travel, parties?\n **Budget Range**: What's comfortable for you to spend?\n **Style Preference**: Traditional glass or modern acrylic?\n **Portability**: Important for you or not necessary?\n **Special Features**: LED lights, unbreakable design, etc.?\n\nJust mention what's important to you, and I'll find the perfect match!",
+      "timestamp": "2025-08-03 00:25:31.723590"
+    },
+    {
+      "type": "user",
+      "content": "Show me hookahs under \u20b92000",
+      "timestamp": "2025-08-03 00:25:36.231498"
+    },
+    {
+      "type": "bot",
+      "content": "Thanks for the additional information! Let me find better matches for you.\n\n **Here are my top 2 recommendations for you:**\n\n**1. Acrylic Rocket Hookah**\n Price: Rs. 4,000.00\n Available Colors: Purple, Blue, Silver, Golden\n Features:  LED Light,  24.0\" tall\n Rocket Hookah is a class hookah with a Rocket-like shape. It's a slim and tall shisha. This designer hookah has many unique qualities.\n **[View Product](https://shopdop.in/products/acrylic-rocket-hookah)**\n\n**2. Gizmo Hookah**\n Price: Rs. 2,999.00\n Available Colors: Blue, Silver, Brown\n Features:  nan\" tall\n Why to buy it? \n \n\nX Function: Another model in our collection with the latest X Function technology. No pressure valve (back smoke exhales from the s...\n **[View Product](https://shopdop.in/products/gizmo-hookah)**\n\n **What would you like to know more about?**\n\u2022 More details about any of these products?\n\u2022 Different price range or features?\n\u2022 Other color options?",
+      "timestamp": "2025-08-03 00:25:36.235869"
+    },
+    {
+      "type": "user",
+      "content": "Show me hookahs under 2000 rupees",
+      "timestamp": "2025-08-03 00:25:41.715737"
+    },
+    {
+      "type": "bot",
+      "content": "I'd like to understand your preferences better to give you more targeted recommendations.\n\nCould you tell me more about:\n **Primary Use**: Home sessions, travel, parties?\n **Budget Range**: What's comfortable for you to spend?\n **Style Preference**: Traditional glass or modern acrylic?\n **Portability**: Important for you or not necessary?\n **Special Features**: LED lights, unbreakable design, etc.?\n\nJust mention what's important to you, and I'll find the perfect match!",
+      "timestamp": "2025-08-03 00:25:41.716260"
+    },
+    {
+      "type": "user",
+      "content": "Show me hookahs under 2000 rupees",
+      "timestamp": "2025-08-03 00:25:44.265628"
+    },
+    {
+      "type": "bot",
+      "content": "Thanks for the additional information! I've budget updated. Let me find better matches for you.\n\n **Here are my top 2 recommendations for you:**\n\n**1. Acrylic Rocket Hookah**\n Price: Rs. 4,000.00\n Available Colors: Purple, Blue, Silver, Golden\n Features:  LED Light,  24.0\" tall\n Rocket Hookah is a class hookah with a Rocket-like shape. It's a slim and tall shisha. This designer hookah has many unique qualities.\n **[View Product](https://shopdop.in/products/acrylic-rocket-hookah)**\n\n**2. Gizmo Hookah**\n Price: Rs. 2,999.00\n Available Colors: Blue, Silver, Brown\n Features:  nan\" tall\n Why to buy it? \n \n\nX Function: Another model in our collection with the latest X Function technology. No pressure valve (back smoke exhales from the s...\n **[View Product](https://shopdop.in/products/gizmo-hookah)**\n\n **What would you like to know more about?**\n\u2022 More details about any of these products?\n\u2022 Different price range or features?\n\u2022 Other color options?",
+      "timestamp": "2025-08-03 00:25:44.272394"
+    }
+  ],
+  "user_preferences": {
+    "state": "showing_products",
+    "preferences": {
+      "budget_range": "\u20b90 - \u20b92000",
+      "colors": [],
+      "features": [],
+      "usage": ""
+    },
+    "recommendations_shown": 2,
+    "conversation_length": 12
+  },
+  "last_updated": "2025-08-03 00:25:44.272394"
+}

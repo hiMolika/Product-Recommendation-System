@@ -1,0 +1,37 @@
+{
+  "session_id": "20250807_145950",
+  "conversation_history": [
+    {
+      "type": "user",
+      "content": "I want hookah for party under 3000",
+      "timestamp": "2025-08-07 15:00:08.546414"
+    },
+    {
+      "type": "bot",
+      "content": " Hello! I'm your hookah recommendation assistant. I'm here to help you find the perfect hookah based on your preferences and budget.\n\nI can help you with:\n Finding hookahs based on your needs\n Budget-friendly recommendations\n Color and design preferences\n Portable vs home hookah options\n LED and special features\n\nWhat kind of hookah are you looking for today?\n\nGreat!  I understand your budget is around \u20b93000.  For party use.",
+      "timestamp": "2025-08-07 15:00:08.554692"
+    },
+    {
+      "type": "user",
+      "content": "show me",
+      "timestamp": "2025-08-07 15:00:14.929477"
+    },
+    {
+      "type": "bot",
+      "content": "Great!  I understand your budget is around \u20b93000.  For party use.\n\n **Here are my top 2 recommendations for you:**\n\n**1. Alshan Magic Coal Box (pack of 10 rolls)**\n Price: Rs. 399.00\n Features:  nan\" tall\n pack of 10 magic coal rolls   \nRound shape magic coal\nQuick light (even with a matchstick)\nGenerate dense smoke\nPack of 10 Rolls (Full Box)\nIgnites qu...\n **[View Product](https://shopdop.in/products/alshan-magic-coal-box-pack-of-10-rolls)**\n\n**2. Nameless Molasses**\n Price: Rs. 70.00\n Available Colors: Boost Master, Commissioner, Mint, Double Apple, Chocolate, Weapon Girl\n Features:  nan\" tall\n Low price flavors\nPremium flavor without name\n50g pack\nGood airtight box\nOne pack offers 3-4 bowls (depends on you)\n **[View Product](https://shopdop.in/products/nameless-molasses)**\n\n **What would you like to know more about?**\n\u2022 More details about any of these products?\n\u2022 Different price range or features?\n\u2022 Other color options?",
+      "timestamp": "2025-08-07 15:00:15.071520"
+    }
+  ],
+  "user_preferences": {
+    "state": "showing_products",
+    "preferences": {
+      "budget_range": "\u20b90 - \u20b93000",
+      "colors": [],
+      "features": [],
+      "usage": "party"
+    },
+    "recommendations_shown": 2,
+    "conversation_length": 4
+  },
+  "last_updated": "2025-08-07 15:00:15.071520"
+}

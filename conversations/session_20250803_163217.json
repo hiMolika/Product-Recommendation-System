@@ -1,0 +1,70 @@
+{
+  "session_id": "20250803_163217",
+  "conversation_history": [
+    {
+      "type": "user",
+      "content": "hi",
+      "timestamp": "2025-08-03 16:32:36.600792"
+    },
+    {
+      "type": "bot",
+      "content": " Hello! I'm your hookah recommendation assistant. I'm here to help you find the perfect hookah based on your preferences and budget.\n\nI can help you with:\n Finding hookahs based on your needs\n Budget-friendly recommendations\n Color and design preferences\n Portable vs home hookah options\n LED and special features\n\nWhat kind of hookah are you looking for today?",
+      "timestamp": "2025-08-03 16:32:36.617281"
+    },
+    {
+      "type": "user",
+      "content": "i want hookah for party",
+      "timestamp": "2025-08-03 16:32:53.049068"
+    },
+    {
+      "type": "bot",
+      "content": "Great!  For party use.",
+      "timestamp": "2025-08-03 16:32:53.051072"
+    },
+    {
+      "type": "user",
+      "content": "under 5000",
+      "timestamp": "2025-08-03 16:32:58.932351"
+    },
+    {
+      "type": "bot",
+      "content": "Great!  I understand your budget is around \u20b95000.  For party use.\n\n **Here are my top 2 recommendations for you:**\n\n**1. Alshan Magic Coal Box (pack of 10 rolls)**\n Price: Rs. 399.00\n Features:  nan\" tall\n pack of 10 magic coal rolls   \nRound shape magic coal\nQuick light (even with a matchstick)\nGenerate dense smoke\nPack of 10 Rolls (Full Box)\nIgnites qu...\n **[View Product](https://shopdop.in/products/alshan-magic-coal-box-pack-of-10-rolls)**\n\n**2. Nameless Molasses**\n Price: Rs. 70.00\n Available Colors: Boost Master, Commissioner, Mint, Double Apple, Chocolate, Weapon Girl\n Features:  nan\" tall\n Low price flavors\nPremium flavor without name\n50g pack\nGood airtight box\nOne pack offers 3-4 bowls (depends on you)\n **[View Product](https://shopdop.in/products/nameless-molasses)**\n\n **What would you like to know more about?**\n\u2022 More details about any of these products?\n\u2022 Different price range or features?\n\u2022 Other color options?",
+      "timestamp": "2025-08-03 16:32:59.614938"
+    },
+    {
+      "type": "user",
+      "content": "i want hookah for travel",
+      "timestamp": "2025-08-03 16:33:12.963731"
+    },
+    {
+      "type": "bot",
+      "content": "I'd like to understand your preferences better to give you more targeted recommendations.\n\nCould you tell me more about:\n **Primary Use**: Home sessions, travel, parties?\n **Budget Range**: What's comfortable for you to spend?\n **Style Preference**: Traditional glass or modern acrylic?\n **Portability**: Important for you or not necessary?\n **Special Features**: LED lights, unbreakable design, etc.?\n\nJust mention what's important to you, and I'll find the perfect match!",
+      "timestamp": "2025-08-03 16:33:12.964733"
+    },
+    {
+      "type": "user",
+      "content": "unbreakable",
+      "timestamp": "2025-08-03 16:33:20.189931"
+    },
+    {
+      "type": "bot",
+      "content": "Thanks for the additional information! I've feature requirements understood. Let me find better matches for you.\n\n **Here are my top 2 recommendations for you:**\n\n**1. Compact Unbreakable Hookah**\n Price: Rs. 999.00\n Available Colors: Pink, Red, Green\n Features:  Portable,  15.0\" tall\n Unbreakable, because it's made up of acrylic.\nGlass shisha bases have very high chances of breakage.\n\nAcrylic Hookahsare always better.\n **[View Product](https://shopdop.in/products/compact-unbreakable-hookah)**\n\n **What would you like to know more about?**\n\u2022 More details about any of these products?\n\u2022 Different price range or features?\n\u2022 Other color options?",
+      "timestamp": "2025-08-03 16:33:20.264008"
+    }
+  ],
+  "user_preferences": {
+    "state": "showing_products",
+    "preferences": {
+      "budget_range": "\u20b90 - \u20b95000",
+      "colors": [],
+      "features": [
+        "unbreakable",
+        "portable"
+      ],
+      "usage": "travel"
+    },
+    "recommendations_shown": 1,
+    "conversation_length": 10
+  },
+  "last_updated": "2025-08-03 16:33:20.265009"
+}
